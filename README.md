@@ -47,10 +47,10 @@ No expert was chosen just because they appeared first on Google.
 | 4 | Carrie Melissa Jones | Founder, CMJ Group | Brand community design & B2B SaaS strategy | LinkedIn, Website |
 | 5 | Derek Weeks | CMO, Katalon | CLG + demand gen integration | LinkedIn |
 | 6 | Laís de Oliveira | CLG Advisor, Author | 5 Ps framework, community-to-revenue | LinkedIn, LinkedIn Articles |
-| 7 | Patrick Woods | Co-founder, Orbit | Community measurement & Orbit Model | LinkedIn, Orbit Blog |
+| 7 | Richard Millington |  Founder, FeverBee | Community strategy & frameworks | LinkedIn, YouTube, Blog  |
 | 8 | Joel Primack | Host, CLG Show Podcast | CLG frameworks for B2B SaaS | LinkedIn, Podcast |
 | 9 | Jared Robin | Co-founder, RevGenius | Community as a B2B GTM channel | LinkedIn, RevGenius Blog |
-| 10 | Lloyed Lobo | Co-founder, Boast.ai | Founder-led community, grassroots growth | LinkedIn, YouTube, Podcast |
+| 10 | Mary Thengvall | Community strategist | Community foundations & DevRel | LinkedIn, Website, Podcast |
  
 ---
  
