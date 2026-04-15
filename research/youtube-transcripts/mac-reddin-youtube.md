@@ -2,8 +2,8 @@
 
 ## Video: Remote Talks Interview — Community-Led Growth & Commsor  
 **Channel:** Remote Talks  
-**URL:** https://www.youtube.com/watch?v=EeeM6yf9YSI  
-**Date:** 2021  
+**Link:** https://www.youtube.com/watch?v=EeeM6yf9YSI  
+**Date:** May 2021  
 
 ## Summary  
 Mac Reddin, CEO of Commsor, explains how community-led growth works and why it's becoming a core go-to-market strategy for B2B SaaS companies.
