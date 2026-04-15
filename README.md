@@ -77,9 +77,9 @@ No expert was chosen just because they appeared first on Google.
 Rather than relying only on LinkedIn posts, this research pulls from multiple content types per expert:
  
 - **LinkedIn posts** — collected for all 10 experts
-- **YouTube transcripts** — Mac Reddin (Commsor), Lloyed Lobo (Traction)
+- **YouTube transcripts** — Mac Reddin (Commsor), Richard Willington (FeverBee)
 - **Substack articles** — David Spinks, Rosie Sherry
-- **Blog articles** — Patrick Woods (Orbit blog), Jared Robin (RevGenius blog)
+- **Blog articles** — Mary Thengvall, Jared Robin (RevGenius blog)
 - **Podcast summaries** — Joel Primack (CLG Show), Lloyed Lobo (Traction podcast)
 - **LinkedIn articles** — Laís de Oliveira
  
