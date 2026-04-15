@@ -72,7 +72,7 @@ Community-led growth (CLG) is a go-to-market strategy where a company's user com
 
 ---
 
-### Mary Thengvall
+### 7. Mary Thengvall
 - **LinkedIn:** https://www.linkedin.com/in/marythengvall/
 - **Website:** https://www.marythengvall.com
 - **Podcast:** https://www.communitypulse.io/hosts/mary-thengvall
@@ -99,7 +99,7 @@ Community-led growth (CLG) is a go-to-market strategy where a company's user com
 
 ---
 
-### Richard Millington
+### 10. Richard Millington
 - **LinkedIn:** https://www.linkedin.com/in/richardmillington/
 - **Website:** https://www.feverbee.com
 - **YouTube:** https://www.youtube.com/@FeverBee
@@ -122,7 +122,7 @@ Community-led growth (CLG) is a go-to-market strategy where a company's user com
 | Mary Thengvall | ✅ | — | ✅ Podcast|
 | Joel Primack | ✅ | — | ✅ Podcast episodes |
 | Jared Robin | ✅ | — | ✅ RevGenius blog |
-| Richard Millington | ✅ | ✅ Feverbee YouTube | ✅ Website |
+| Richard Millington | ✅ | ✅ FeverBee YouTube | ✅ Website |
 
 ---
 
